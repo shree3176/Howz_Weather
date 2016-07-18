@@ -1,2 +1,3 @@
 # Howz_Weather
 Tells you about weather conditions for the selected period
+its shri...starting to create an android app...
